@@ -1,2 +1,2 @@
 Step:1 docker build -t image_name .
-Step:2docker run -dp 3306:3306 local-mysql
+Step:2 docker run -dp 3306:3306 local-mysql
